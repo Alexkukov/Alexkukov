@@ -109,6 +109,4 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: Alexkukov@gmail.com
