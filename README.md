@@ -26,7 +26,7 @@
 <p>Как решала:<p>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href=["https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx"](https://github.com/Alexkukov/Alexkukov/blob/main/Сборка%20калькулятора%20юнит-экономики%20онлайн%20кинотеатра.xlsx)>Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 <p>Выводы (итоги):<p>
